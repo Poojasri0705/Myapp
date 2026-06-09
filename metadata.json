@@ -1,0 +1,6 @@
+{
+  "name": "Gen Pdf",
+  "description": "Convert docx, images, spreadsheet, and text files, merge multiple documents, split PDFs, extract specific pages, compress sizes, perform OCR, and instantly share generated PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
